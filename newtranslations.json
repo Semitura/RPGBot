@@ -1,249 +1,328 @@
 {
   "Cannot purge more than 100 messages!": {
     "fr": "C'est impossible de supprimer plus de 100 messages.",
-    "de": "Benutzer hat keinen auswählbaren Charakter"
+    "de": "Benutzer hat keinen auswählbaren Charakter",
+    "sp": "¡No se pueden poner mas de 100 mensajes!"
   },
   "{} has no characters to display": {
     "fr": "{} n'a aucun personnage à afficher",
-    "de": "Keine Charaktere anzeigbar"
+    "de": "Keine Charaktere anzeigbar",
+    "sp": "{} no tiene personajes a mostrar"
   },
   "No characters to display": {
     "fr": "Aucun personnage à afficher",
-    "de": "Keine Charaktere anzeigbar"
+    "de": "Keine Charaktere anzeigbar",
+    "sp": "No hay personajes a mostrar",
   },
   "Character {} does not exist!": {
     "fr": "Personnage {} n'existe pas",
-    "de": "Dieser Charakter existiert nicht"
+    "de": "Dieser Charakter existiert nicht",
+    "sp" :"El personaje {} no exixte"
   },
   "Name": {
     "fr": "Nom",
-    "de": "Name"
+    "de": "Name",
+    "sp": "Nombre"
   },
   "Owner": {
     "fr": "Propriétaire",
-    "de": "Eigenschaften"
+    "de": "Eigenschaften",
+    "sp": "Dueño"
   },
   "Level": {
     "fr": "Niveau",
-    "de": "Ebene"
+    "de": "Ebene",
+    "sp": "Nivel"
   },
   "Empty": {
     "fr": "Vide",
-    "de": "Leere"
+    "de": "Leere",
+    "sp": "Vacio"
   },
   "Team": {
     "fr": "Équipe",
-    "de": "Ausrüstung"
+    "de": "Ausrüstung",
+    "sp": "Equipo"
   },
   "Additional Info": {
     "fr": "Informations supplémentaires",
-    "de": "Zusätzliche Informationen"
+    "de": "Zusätzliche Informationen",
+    "sp": "Información adicional"
   },
   "Only Bot Mods/Bot Admins may make characters for other players!": {
-    "fr": "Il faut etre `Bot Mod` ou `Bot Admin` pour faire un personnage pour les autrui"
+    "fr": "Il faut etre `Bot Mod` ou `Bot Admin` pour faire un personnage pour les autrui",
+    "sp": "¡Solo los Mods/Admins del bot pueden hacer personajes para otros jugadores!"
   },
   "A character with this name already exists!": {
-    "fr": "Un personnage a déjà ce nom"
+    "fr": "Un personnage a déjà ce nom",
+    "sp": "Un personaje con este nombre ya exixte"
   },
   "Describe the character (Relevant character sheet) (Say `done` when you're done describing)": {
-    "fr": "Décrivez le personnage (Fiche du personnage relevant) (Dites `done` quand vous-êtes finis)"
+    "fr": "Décrivez le personnage (Fiche du personnage relevant) (Dites `done` quand vous-êtes finis)",
+    "sp": "Describe el personaje (Hoja de personaje relevante) (Di 'listo' cuando hayas terminado de describirle)"
   },
   "What level is the character?": {
-    "fr": "Quel est le niveau du personnage ?"
-  },
+    "fr": "Quel est le niveau du personnage ?",
+    "sp": "¿A que nivel está tu personaje?"
+	
   "Any additional info? (Add a character image using the image keyword. Formats use regular syntax i.e `image: http://image.com/image.jpg, hair_color: blond, nickname: Kevin` (Separate keys with commas or newlines)": {
-    "fr": "Information supplémentaire ? (Ajouter une image au personnage avec le mot-clé `image`, avec la syntaxe suivante : `image: http://image.com/image.jpg, cheveux: bruns` (Separer les mot-clés avec des virgules ou de nouvelles lignes)"
+    "fr": "Information supplémentaire ? (Ajouter une image au personnage avec le mot-clé `image`, avec la syntaxe suivante : `image: http://image.com/image.jpg, cheveux: bruns` (Separer les mot-clés avec des virgules ou de nouvelles lignes)",
+    "sp": "¿Informacion adicional? (Añade una imagen usando el teclado de imagen. Un formato de ejemplo: 'imagen: http://image.com/image.jpg, color_pelo: rubio, mote: Kevin' (Separa los atributos con comas o nuevas lineas)"
   },
   "Cancelling!": {
-    "fr": "Annulant !"
+    "fr": "Annulant !",
+    "sp": "¡Cancelando!"
   },
   "Skipping!": {
-    "fr": "Passant !"
+    "fr": "Passant !",
+    "sp": "¡Omitiendo!"
   },
   "Character created! rp!team addmember to add to your characters team!": {
-    "fr": "Personnage créé ! Effectuez `rp!team addmember` pour ajouter des personnages à votre équipe !"
+    "fr": "Personnage créé ! Effectuez `rp!team addmember` pour ajouter des personnages à votre équipe !",
+    "sp": "¡Personaje creado! ¡Usa 'rp!team addmemember' para añadirlo al equipo de tu personaje!"
   },
   "That character doesn't exist!": {
-    "fr": "Ce personnage n'existe pas !"
+    "fr": "Ce personnage n'existe pas !",
+    "sp": "¡Ese personaje no existe!"
   },
   "You do not own this character!": {
-    "fr": "Vous n'êtes pas le propriétaire de ce personnage !"
+    "fr": "Vous n'êtes pas le propriétaire de ce personnage !",
+    "sp": "¡Ese personaje no te pertenece!
   },
   "Character deleted": {
-    "fr": "Personnage supprimé"
+    "fr": "Personnage supprimé",
+    "sp": "Personaje borrado"
   },
   "Invalid formatting! Try again": {
-    "fr": "Syntaxe invalide !"
+    "fr": "Syntaxe invalide !",
+    "sp": "¡Formato inválido! Inténtalo de nuevo"
   },
   "That is not a valid item! Try again": {
-    "fr": "Ce item n'existe pas !"
+    "fr": "Ce item n'existe pas !",
+    "sp": "¡Ese no es un objeto válido!.Inténtalo de nuevo"
   },
   "Character edited!": {
-    "fr": "Personnage modifié"
+    "fr": "Personnage modifié",
+    "sp": "¡Personaje modificado!"
   },
   "has": {
-    "fr": "a"
+    "fr": "a",
+    "sp": "tiene"
   },
   "Balances changed": {
-    "fr": "Solde changé"
+    "fr": "Solde changé",
+    "sp": "Balance cambiado"
   },
   "Money given": {
-    "fr": "Argent donné"
+    "fr": "Argent donné",
+    "sp": "Dinero dado"
   },
   "Successfully paid ${} to {}": {
-    "fr": "Payé ${} à {} avec succès"
+    "fr": "Payé ${} à {} avec succès",
+    "sp": "Has pagado {}$ a {} con éxito"
   },
   "\n        \u27A1 to see the next page\n        \u2B05 to go back\n        \u274C to exit\n        ": {
-    "fr": "\n        \u27A1 pour voir la page suivante\n        \u2B05 pour retourner\n        \u274C pour quitter\n        "
+    "fr": "\n        \u27A1 pour voir la page suivante\n        \u2B05 pour retourner\n        \u274C pour quitter\n        ",
+    "sp": "\n \u27A1 para ir a la siguiente página\n \u2B005 para retroceder\n \u274C para salir\n"
   },
   "No items on the market to display.": {
-    "fr": "Aucun item sur le marché"
+    "fr": "Aucun item sur le marché",
+    "sp": "No hay objetos en la tienda para mostrar"
   },
-  "Player Market": {
-    "fr": "Marché des Joueurs"
+  "Player's Market": {
+    "fr": "Marché des Joueurs",
+    "sp": "Tienda del jugador"
   },
   "ID": {
-    "fr": "ID"
+    "fr": "ID",
+    "sp": "ID"
   },
   "COST": {
-    "fr": "COÛT"
+    "fr": "COÛT",
+    "sp": "COSTE"
   },
   "NUMBER": {
-    "fr": "NOMBRE"
+    "fr": "NOMBRE",
+    "sp": "NÚMERO"
   },
   "ITEM": {
-    "fr": "ITEM"
+    "fr": "ITEM",
+    "sp": "OBJETO"
   },
   "SELLER": {
-    "fr": "VENDEUR"
+    "fr": "VENDEUR",
+    "sp": "VENDEDOR"
   },
   "Timed out! Try again": {
-    "fr": "Fin du temps! Réessayer"
+    "fr": "Fin du temps! Réessayer",
+    "sp": "¡Fin del tiempo! Inténtalo de nuevo!"
   },
   "You don't have enough of these to sell!": {
-    "fr": "Vous n'avez pas assez à vendre"
+    "fr": "Vous n'avez pas assez à vendre",
+    "sp": "¡No tienes sufienciente de esto para vender!"
   },
   "Item listed!": {
     "fr": "Item listé!"
+    "sp": "¡Objeto listado!"
   },
   "That is not a valid ID!": {
-    "fr": "Ce n'est pas un ID valide"
+    "fr": "Ce n'est pas un ID valide",
+    "sp": "¡Esta no es una ID válida!"
   },
   "You cant afford this item!": {
-    "fr": "Vous ne pouvez pas vous le permettre"
+    "fr": "Vous ne pouvez pas vous le permettre",
+    "sp": "No puedes permitirte este objeto"
   },
   "Items successfully bought": {
-    "fr": "Items acheté avec succès"
+    "fr": "Items acheté avec succès",
+    "sp": "Objeto comprado con éxito"
   },
   "{} bought {} {} from you for ${} with ID {} on server {}": {
-    "fr": "{} a acheté {} {} de vous pour ${} avec ID {} sur serveur {}"
+    "fr": "{} a acheté {} {} de vous pour ${} avec ID {} sur serveur {}",
+    "sp": "{} te compró {} {} por {}$ con la ID {} en el servidor {}"
   },
   "This is not your item to remove!": {
-    "fr": "Ce n'est pas votre item à supprimer"
+    "fr": "Ce n'est pas votre item à supprimer",
+    "sp": "¡No puedes quitar este objeto porque no te pertenece!"
   },
   "Jackpot: ${}\n{} players entered": {
-    "fr": "Cagnotte: ${}\n{} joueurs ont entré"
+    "fr": "Cagnotte: ${}\n{} joueurs ont entré",
+    "sp": "Premio gordo: {}$\n Participaron {} jugadores"
   },
   "No lotteries currently running!": {
-    "fr": "Aucune loterie actuellement"
+    "fr": "Aucune loterie actuellement",
+    "sp": "No hay ninguna lotería en curso"
   },
   "A lottery of that name already exists!": {
-    "fr": "Une loterie avec ce nom existe déjà!"
+    "fr": "Une loterie avec ce nom existe déjà!",
+    "sp": "¡Una lotería con ese nombre ya exixte!"
   },
   "Lottery created!": {
-    "fr": "Loterie créée"
+    "fr": "Loterie créée",
+    "sp": "¡Loteria creada!"
   },
   "Lottery {} is now over!\n{} won {}! Congratulations!": {
-    "fr": "Loterie {} c'est maintenant terminée!\n{} a gagné(e) {} ! Toutes nos félicitations !"
+    "fr": "Loterie {} c'est maintenant terminée!\n{} a gagné(e) {} ! Toutes nos félicitations !",
+    "sp": "¡La lotería {} ha terminado! \n¡{} ganó {}! ¡Felicidades!"
   },
   "Nobody entered {}! Its over now.": {
-    "fr": "Personne n'a entré {}! C'est maintenant terminée."
+    "fr": "Personne n'a entré {}! C'est maintenant terminée.",
+    "sp": "¡Nadie ha participado en {}!. Ya se ha terminado"
   },
   "Lotto entered!": {
-    "fr": "Vous avez entré la lotto"
+    "fr": "Vous avez entré la lotto",
+    "sp": "¡Ahora participas en la lotto!"
   },
   "You're already in this lotto!": {
-    "fr": "Vous avez déjà entré ce lotto"
+    "fr": "Vous avez déjà entré ce lotto",
+    "sp": "¡Ya has ganado esta lotto!"
   },
   "This server has no lotto by that name! See rp!lotto": {
-    "fr": "Ce serveur n'a aucune lotto avec ce nom ! Voyez rp!lotto"
+    "fr": "Ce serveur n'a aucune lotto avec ce nom ! Voyez rp!lotto",
+    "sp": "¡El servidor no tiene una lotto con ese nombre! Para más informacion usa 'rp!lotto'"
   },
   "This server has no lottos currently running!": {
-    "fr": "Ce serveur n'a aucune lotto actuellement !"
+    "fr": "Ce serveur n'a aucune lotto actuellement !",
+    "sp": "¡Este servidor no tiene ninguna lotto en curso!"
   },
   "No items in the shop to display.": {
-    "fr": "Il n'y a aucun item dans le shop"
+    "fr": "Il n'y a aucun item dans le shop",
+    "sp": "¡No hay objetos que mostrar en la tienda!"
   },
-  "Server Shop": {
-    "fr": "Shop du Serveur"
+  "Server's Shop": {
+    "fr": "Shop du Serveur",
+    "sp": "Tienda del servidor"
   },
   "Say 'cancel' to cancel or 'skip' to skip a step": {
-    "fr": "Dites 'cancel' pour annuler, ou 'skip' pour passer un pas"
+    "fr": "Dites 'cancel' pour annuler, ou 'skip' pour passer un pas",
+    "sp": "Di 'cancelar' para cancelar u'omitir' para omitir un paso"
   },
   "How much should this be buyable for? 0 for not buyable": {
-    "fr": "Pour combien devrait-il être achetable ? (0 pour non-achetable)"
+    "fr": "Pour combien devrait-il être achetable ? (0 pour non-achetable)",
+    "sp": "¿Por cuanto comprarías este objeto? (0 para incomprable)"
   },
   "That is not a valid number!": {
-    "fr": "Ce n'est pas un nombre valid !"
+    "fr": "Ce n'est pas un nombre valid !",
+    "sp": "¡Este no es un número válido!"
   },
   "How much should this be sellable for? 0 for not sellable": {
-    "fr": "Pour combien devrait-il être vendable ? (0 pour non-vendable)"
+    "fr": "Pour combien devrait-il être vendable ? (0 pour non-vendable)",
+    "sp": "¿Por cuanto venderías este objeto? (0 para invendible)"
   },
   "What is the minimum level a user must be for this item? 0 for no minimum": {
-    "fr": "Quel est le niveau minimum qu'il faut être pour acheter ce item ? 0 pour aucun minimum"
+    "fr": "Quel est le niveau minimum qu'il faut être pour acheter ce item ? 0 pour aucun minimum",
+    "sp": "¿Cual es el nivel máximo que un usuario debe tener para el objeto? (0 para no poner límite)"
   },
   "You can't make an item with 0 for every value! Cancelling, try again.": {
-    "fr": "Vous ne pouvez pas créer un item avec 0 pour chaque valeur ! Annulant, réessayez."
+    "fr": "Vous ne pouvez pas créer un item avec 0 pour chaque valeur ! Annulant, réessayez.",
+    "sp": "¡No puedes hacer un objeto con un 0 en todos los valores! Cancelando, inténtalo de nuevo"
   },
   "Timed out! Cancelling": {
-    "fr": "Fin du temps! Annulant !"
+    "fr": "Fin du temps! Annulant !",
+    "sp": "¡Fin del tiempo! Cancelando"
   },
   "Guild shop updated": {
-    "fr": "Shop actualisé"
+    "fr": "Shop actualisé",
+    "sp": "Tienda del gremio actualizada"
   },
   "That item isn't listed!": {
-    "fr": "Ce item n'est pas listé !"
+    "fr": "Ce item n'est pas listé !",
+    "sp": "¡Este objeto no está en la lista!"
   },
   "Successfully removed item": {
-    "fr": "L'item a éte supprimé avec succès"
+    "fr": "L'item a éte supprimé avec succès",
+	"sp": "EL objeto fué borrado con éxito"
   },
   "This item cannot be bought!": {
-    "fr": "Ce item ne peut pas être acheté !"
+    "fr": "Ce item ne peut pas être acheté !",
+    "sp": "¡Este objeto no se puede comprar!"
   },
   "You aren't high enough level for this item!": {
-    "fr": "Vous n'êtes pas un niveau assez élevé !"
+    "fr": "Vous n'êtes pas un niveau assez élevé !",
+    "sp": "¡No tienes el nivel suficiente para este objeto!"
   },
   "You can't afford this many!": {
-    "fr": "Vous ne pouvez pas vous en permettre !"
+    "fr": "Vous ne pouvez pas vous en permettre !",
+    "sp": "¡No puedes comprar tanto!"
   },
   "Successfully bought {} {}s": {
-    "fr": "Vous avez acheté {} {}s avec succès !"
+    "fr": "Vous avez acheté {} {}s avec succès !",
+    "sp": "Compraste con éxito {} {}s"
   },
   "This item cannot be sold!": {
-    "fr": "Ce item ne peut pas être vendu"
+    "fr": "Ce item ne peut pas être vendu",
+    "sp": "¡Este objeto no se puede vender!"
   },
   "You don't have enough to sell": {
-    "fr": "Vous n'avez pas assez à vendre"
+    "fr": "Vous n'avez pas assez à vendre",
+    "sp": "No tienes sufientence para vender"
   },
   "Successfully sold {} {}s": {
-    "fr": "Vous avez vendu {} {}s"
+    "fr": "Vous avez vendu {} {}s",
+    "sp": "Vendiste con éxito {} {}s"
   },
   "This channel already has a bid going!": {
-    "fr": "Ce channel a déjà une enchère !"
+    "fr": "Ce channel a déjà une enchère !",
+    "sp": "¡Este canal ya tiene una apuesta en marcha!"
   },
   "You do not have x{} {}!": {
-    "fr": "Vous n'avez pas x{} {} !"
+    "fr": "Vous n'avez pas x{} {} !",
+    "sp": "¡No tienes {} {}!"
   },
   "{} Has started a bid for x{} {} starting at ${}\nBid runs for 60 seconds `rp!bid` to place a bid!": {
-    "fr": "{} a commencé une enchère pour x{} {}, commençant à ${}\nL'enchère va pour 60 secondes `rp!bid` pour placer une enchère !"
+    "fr": "{} a commencé une enchère pour x{} {}, commençant à ${}\nL'enchère va pour 60 secondes `rp!bid` pour placer une enchère !",
+    "sp": "{} ha comenzado una apuesta por {} {}, comenzando en {}$. \n La apuesta dura 60 segundos. ¡Usa 'rp!bid' para hacer una apuesta!"
   },
   "Bid over!": {
-    "fr": "L'enchère est finie!"
+    "fr": "L'enchère est finie!",
+    "sp": "¡La apuesta ha terminado!"
   },
   "{} won the bid for ${}!": {
-    "fr": "{} a gagné l'enchère pour ${}"
+    "fr": "{} a gagné l'enchère pour ${}",
+    "sp": "{} ganó la apuesta por {}$"
   },
-  "Nobody bid and had enough money to pay for it!": {
-    "fr": "Personne n'a enchéri"
+  "Nobody bid or had enough money to pay for it!": {
+    "fr": "Personne n'a enchéri",
+    "sp": "Nadie apostó ó tenía suficiente dinero para pagarlo!"
   }
 }
