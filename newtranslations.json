@@ -87,7 +87,7 @@
   },
   "You do not own this character!": {
     "fr": "Vous n'êtes pas le propriétaire de ce personnage !",
-    "sp": "¡Ese personaje no te pertenece!
+    "sp": "¡Ese personaje no te pertenece!"
   },
   "Character deleted": {
     "fr": "Personnage supprimé",
@@ -271,7 +271,7 @@
   },
   "Successfully removed item": {
     "fr": "L'item a éte supprimé avec succès",
-	"sp": "EL objeto fué borrado con éxito"
+    "sp": "El objeto fué borrado con éxito"
   },
   "This item cannot be bought!": {
     "fr": "Ce item ne peut pas être acheté !",
